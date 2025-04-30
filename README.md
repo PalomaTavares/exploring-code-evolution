@@ -76,11 +76,15 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado:
+https://github.com/airbnb/javascript
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado:
+Variable Declarations
   
-3. Explicação: <EXPLICACAO_AQUI>
-
+3. Explicação:
+Entre 2020 e 2021 houve um ligeiro aumento de declarações, isso sugere uma evolução natural do código, sem explosão repentina de complexidade. Entre 2021 e 2022 ocorreu um crescimento significativo, o que sugere a adição de novas funcionalidades, possivelmente uma expansão ou reestruturação do código.
+Entre 2022 e 2023 observa-se um pequena queda de declarações, que pode estar relacionada à refatorções. Entre 2023 e 2024 a quantidade de declarações se manteve estável.
+O aumento foi feito de forma gradual, o que sugere uma evolução natural do código, sem explosão repentina de complexidade. Após esse pico a quantidade de declarações se estabilizou, indicando maturidade no código.
 
 
